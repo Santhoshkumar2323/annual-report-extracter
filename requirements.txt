@@ -1,0 +1,5 @@
+streamlit>=1.38
+llama-cloud>=2.1
+pypdf>=4.0
+pymupdf>=1.24
+markdown>=3.6

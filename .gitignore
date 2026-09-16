@@ -1,0 +1,6 @@
+__pycache__/
+.streamlit/
+
+annual_reports/
+results/
+extract_test23.py
