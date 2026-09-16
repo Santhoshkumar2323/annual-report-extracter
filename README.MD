@@ -4,6 +4,7 @@ Upload an annual report PDF, inspect any page, pick page ranges by
 clicking (not typing, except for "how many ranges"), and extract
 clean Markdown per range using LlamaParse.
 
+[Live Streamlit App](https://annual-report-extracter-sk.streamlit.app/)
 
 
 ## Files
